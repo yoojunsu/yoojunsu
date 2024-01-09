@@ -7,6 +7,7 @@
 - <i class="fa-brands fa-css3-alt"></i> CSS
 - <i class="fa-brands fa-sass"></i> Scss
 - <i class="fa-brands fa-square-js"></i> Javascript
+- <i class="fa-brands fa-square-jqury"></i> JQuery
 - <i class="fa-brands fa-vuejs"></i> Vue.js
 
 
